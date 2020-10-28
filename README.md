@@ -1,28 +1,24 @@
-# This is a large heading
+# Rosemary
 
-## This is a smaller heading
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+### Geography
 
-- This is
-- an unordered
-- list
 
-1. This is
-2. an ordered
-3. list
+I was born in China but am living in Singapore now.
 
-Here is `some code` in the middle of a sentence.
 
-```
-This is
-a block
-of code
-```
+### Reading
 
-Here is how you make [a link](https://www.wikipedia.org/).
+I don't really like reading but tring to get used to it.
+- testing book 1
+- testing book 2
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+### Food
+I like:
+1. Chinese food
+2. Thai food
+3. and Korean food
+
+### Contact
+
+Please contact me via (https://en.wikipedia.org/wiki/Main_Page).
