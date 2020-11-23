@@ -1,8 +1,9 @@
 ## Guessing Game
 
-# Peer-graded assignment by Rosemary"
+# Peer-graded assignment by Rosemary
 
-# Number of lines"
-wc -l < guessinggame.sh >> README.md
+# Number of lines
+
+wc -l guessinggame.sh 
 
 # Date
