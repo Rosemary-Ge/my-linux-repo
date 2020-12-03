@@ -1,9 +1,6 @@
 ## Guessing game
 
-echo $$(date)
+$ date
 
-echo " \n"
-
-wc -l guessinggame.sh | egrep -o "[0-9]+"
 
 
